@@ -6,6 +6,7 @@ Problem Statement:
 This internship project aims to analyse a dataset of hotel aggregator listings using Power BI. The dataset comprises various attributes related to listings, hosts, reviews, and availability. The objective is to create comprehensive visualizations and insights that shed light on trends, patterns, and factors influencing the performance of listings. Through Power BI, interns will explore key metrics such as pricing, availability, host characteristics, and review scores to derive actionable insights for improving the overall quality and competitiveness of the listings.
 
 Dataset Description:
+
 id: Unique identifier for each listing.
 
 listing_url: URL of the listing on the hotel aggregator platform.
